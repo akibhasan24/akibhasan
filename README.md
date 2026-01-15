@@ -3,9 +3,7 @@
 # 👋 Hi, I'm Akib Hasan  
 ### Software Engineering Student | Tech Explorer 🚀
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
-</p>
+
 
 ---
 
@@ -18,13 +16,6 @@
   - 🤖 Artificial Intelligence  
 - 🎯 Goal: Choose a specialization & master it  
 - 📍 Bangladesh  
-
----
-
-## 🛠️ Tech Stack (Beginner)
-<p>
-<img src="https://skillicons.dev/icons?i=c,html,css,git,github,vscode" />
-</p>
 
 ---
 
@@ -43,12 +34,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
