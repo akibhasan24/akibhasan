@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Welcome%20to%20my%20Profile!&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=180&section=header&text=Welcome!&fontSize=40&fontColor=ffffff" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Akib+Hasan;Software+Engineering+Student;Exploring+Tech+Fields" />
 
 # 👋 Hi, I'm Akib Hasan  
 ### Software Engineering Student | Tech Explorer 🚀
